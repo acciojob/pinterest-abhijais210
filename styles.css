@@ -2,7 +2,8 @@
 div{
     display: inline-block;
 }
-button{
+a{
+	text-decoration:none;
     padding: 5px;
     border: none;
     background-color: red;
@@ -11,4 +12,5 @@ button{
 }
 .item2{
     text-align: center;
+	object-fit: cover;
 }
