@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+div{
+    display: inline-block;
+}
+button{
+    padding: 5px;
+    border: none;
+    background-color: red;
+    color: white;
+    border-radius: 4px;
+}
+.item2{
+    text-align: center;
+}
